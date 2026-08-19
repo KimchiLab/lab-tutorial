@@ -9,7 +9,7 @@ This reposiotry is licenced under [CC BY-NC-SA 4.0](https://creativecommons.org/
 ### Contributors
 - Jane Doe (primary/first)
 - Eyal Kimchi (Principle Investigator)
-- John Doe as of 20XX/XX/XX
+- Grace Steward as of 2026/08/18
 
 #### Contact Information
 For any questions concerning this repository please contact:\
