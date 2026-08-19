@@ -1,4 +1,5 @@
 # repository_project_title
+This is a demo repository for lab tutorials
 
 ## Licensing and Use
 
