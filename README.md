@@ -9,7 +9,7 @@ This reposiotry is licenced under [CC BY-NC-SA 4.0](https://creativecommons.org/
 ### Contributors
 - Jane Doe (primary/first)
 - Eyal Kimchi (Principle Investigator)
-- Drake Gorecki (as of 08/20/2026)
+- Drake Gorecki (as of 08/20/2026) 
 
 #### Contact Information
 For any questions concerning this repository please contact:\
