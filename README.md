@@ -10,6 +10,11 @@ This reposiotry is licenced under [CC BY-NC-SA 4.0](https://creativecommons.org/
 - Jane Doe (primary/first)
 - Eyal Kimchi (Principle Investigator)
 - Marcus Yeung (as of 8/20/2026)
+- Cat Zhao (as of 08/20/2026)
+- Rishab Jain (as of 08/20/2026)
+- Karen Kirunda (08/20/2026)
+- Drake Gorecki (as of 08/20/2026) 
+- Jenna Shin (as of 08/20/2026)
 
 #### Contact Information
 For any questions concerning this repository please contact:\
