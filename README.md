@@ -8,7 +8,7 @@ This reposiotry is licenced under [CC BY-NC-SA 4.0](https://creativecommons.org/
 
 ### Contributors
 - Jane Doe (primary/first)
-- Eyal Kimchi (Principle Investigator)
+- Eyal Kimchi (Principal Investigator)
 - Marcus Yeung (as of 8/20/2026)
 - Cat Zhao (as of 08/20/2026)
 - Rishab Jain (as of 08/20/2026)
@@ -19,7 +19,7 @@ This reposiotry is licenced under [CC BY-NC-SA 4.0](https://creativecommons.org/
 #### Contact Information
 For any questions concerning this repository please contact:\
 Eyal Y Kimchi, MD PHD\
-Email: eyal.kimchi@northwestern.edu | [Website](https://kimchilab.org/)
+[Website](https://kimchilab.org/)
 
 ## Project Description
 ### Objective
